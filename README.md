@@ -12,6 +12,12 @@ Based on the [official plate file](https://github.com/foostan/corneliuskbd/tree/
 
 ![Build guide corner rounding](pics/build.png)
 
+## Printing
+
 Also included is an STL for half the plate if you want to print a plate (the full plate won't fit on that many printers). You'll need to print two, ideally with one mirrored so they both get a nice finish facing up when you're done. In two halves they easily fit on a Prusa bed:
 
 ![Slicer screenshot](pics/slicer.png)
+
+## Alps?
+
+Yeah I added a DXF for an Alps version, should anyone be feeling intrepid. Thus far this is untested.
