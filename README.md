@@ -3,6 +3,8 @@ Tweaked plate for Foostan's Cornelius keyboard
 
 ![plate](pics/plate.png)
 
+If you just want the plate DXF, right click here and hit "save as file": https://raw.githubusercontent.com/godders/cornelius-plate/main/cornelius-plate.dxf
+
 Based on the [official plate file](https://github.com/foostan/corneliuskbd/tree/main/data), but with a couple of minor tweaks:
 
  * Minimum internal corner radius is now 0.75mm. This is unlikely to make a significant difference to the final product, but it was done to make it compatible with Keebcats' plate group buy.
